@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="frankfurt_transfers_full.sqlite" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="1398"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><table title="transfers" custom_title="0" dock_id="1" table="4,9:maintransfers"/><dock_state state="000000ff00000000fd000000010000000200000421000002b6fc0100000001fb000000160064006f0063006b00420072006f00770073006500310100000000000004210000012e00ffffff000004210000000000000004000000040000000800000008fc00000000"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="transfers" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="62"/><column index="2" value="78"/><column index="3" value="179"/><column index="4" value="29"/><column index="5" value="148"/><column index="6" value="148"/><column index="7" value="124"/><column index="8" value="124"/><column index="9" value="171"/><column index="10" value="93"/><column index="11" value="85"/><column index="12" value="171"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="SQL 1*">--En yüksek bonservisli 10 transfer.
+
+SELECT 
+    Player, Age, Position, Nationality, 
+    &quot;From Club&quot;, &quot;To Club&quot;, &quot;Fee (EUR)&quot;, Season
+FROM transfers
+WHERE &quot;Fee (EUR)&quot; IS NOT NULL
+ORDER BY &quot;Fee (EUR)&quot; DESC
+LIMIT 15;</sql><sql name="SQL 2">--Ortalama transfer yaşı 
+
+SELECT AVG(Age) AS avg_age
+FROM transfers
+WHERE Age IS NOT NULL;</sql><sql name="SQL 4">--En çok satış geliri elde edilen sezonlar
+
+SELECT 
+    Season, 
+    SUM(&quot;Fee (EUR)&quot;) AS total_income
+FROM transfers
+WHERE Direction = 'Departure'
+GROUP BY Season
+ORDER BY Season;</sql><sql name="SQL 5">--Milliyetlere göre en çok transfer edilen oyuncular
+
+SELECT 
+    Nationality, 
+    COUNT(*) AS player_count
+FROM transfers
+GROUP BY Nationality
+ORDER BY player_count DESC
+LIMIT 10;</sql><sql name="SQL 6">--Pozisyona göre ortalama transfer ücreti
+
+SELECT 
+    Position, 
+    AVG(&quot;Fee (EUR)&quot;) AS avg_fee
+FROM transfers
+WHERE &quot;Fee (EUR)&quot; IS NOT NULL
+GROUP BY Position
+ORDER BY avg_fee DESC;</sql><sql name="SQL 7">--Gelen gidenlerin yaş ortalaması
+
+SELECT 
+    Direction,
+    AVG(Age) AS avg_age
+FROM transfers
+WHERE Age IS NOT NULL
+GROUP BY Direction;</sql><sql name="SQL 8">--Hangi pozisyondan kaç adet transfer edilmiş. 
+
+SELECT 
+    Position,
+    SUM(CASE WHEN Direction = 'Arrival' THEN 1 ELSE 0 END) AS arrivals_count,
+    SUM(CASE WHEN Direction = 'Departure' THEN 1 ELSE 0 END) AS departures_count
+FROM transfers
+GROUP BY Position
+ORDER BY arrivals_count DESC;</sql><current_tab id="0"/></tab_sql></sqlb_project>

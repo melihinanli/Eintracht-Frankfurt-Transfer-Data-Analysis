@@ -1,0 +1,416 @@
+Season;Direction;Player;Age;Position;Nationality;From Club;To Club;Fee (raw);Fee Type;Fee (EUR);Market Value
+2016/17;Arrival;Taleb Tawatha;24;Left-Back;Israel;Maccabi Haifa;;ýýý1.20m;transfer;1200000.0;ýýý1.20m
+2016/17;Arrival;Omar Mascarell;23;Defensive Midfield;Equatorial Guinea;Real Madrid;;ýýý1.00m;transfer;1000000.0;ýýý1.00m
+2016/17;Arrival;Andersson Ordï¿½ï¿½;22;Centre-Back;Ecuador;Barcelona SC;;ýýý1.00m;transfer;1000000.0;ýýý1.00m
+2016/17;Arrival;Marius Wolf;21;Right-Back;Germany;Hannover 96;;Loan fee:ï¿½ï¿½ï;loan;500000.0;Loan fee:ï¿½ï¿½ï
+2016/17;Arrival;Max Besuschkow;19;Central Midfield;Germany;Stuttgart II;;ýýý100k;transfer;100000.0;ýýý100k
+2016/17;Arrival;Branimir Hrgota;23;Centre-Forward;Sweden;Bor. M'gladbach;;free transfer;free;0.0;free transfer
+2016/17;Arrival;Danny Blum;25;Left Winger;Germany;1.FC Nuremberg;;free transfer;free;0.0;free transfer
+2016/17;Arrival;Michael Hector;24;Centre-Back;Jamaica;Chelsea;;loan transfer;loan;;loan transfer
+2016/17;Arrival;Shani Tarashaj;21;Second Striker;Switzerland;Everton;;loan transfer;loan;;loan transfer
+2016/17;Arrival;Jesï¿½ï¿½ï¿½ï¿;19;Centre-Back;Spain;Real Madrid;;loan transfer;loan;;loan transfer
+2016/17;Arrival;Ante Rebiï¿;22;Left Winger;Croatia;Fiorentina;;loan transfer;loan;;loan transfer
+2016/17;Arrival;Guillermo Varela;23;Right-Back;Uruguay;Man Utd;;loan transfer;loan;;loan transfer
+2016/17;Arrival;Furkan Zorba;18;Centre-Back;Germany;Frankfurt U19;;-;undisclosed;;-
+2016/17;Arrival;Aymen Barkok;18;Attacking Midfield;Morocco;Frankfurt U19;;-;undisclosed;;-
+2016/17;Arrival;Leon Bï¿½ï¿;18;Goalkeeper;Germany;Frankfurt U19;;-;undisclosed;;-
+2016/17;Arrival;Joel Gerezgiher;20;Attacking Midfield;Germany;FSV Frankfurt;;End of loan30.06.2016;loan_return;0.0;End of loan30.06.2016
+2016/17;Departure;Carlos Zambrano;26;Centre-Back;Peru;;Rubin Kazan;ýýý3.50m;transfer;3500000.0;ýýý3.50m
+2016/17;Departure;Stefan Aigner;28;Right Winger;Germany;;1860 Munich;ýýý3.00m;transfer;3000000.0;ýýý3.00m
+2016/17;Departure;Luc Castaignos;23;Centre-Forward;Netherlands;;Sporting CP;ýýý2.50m;transfer;2500000.0;ýýý2.50m
+2016/17;Departure;Luca Waldschmidt;20;Centre-Forward;Germany;;Hamburger SV;ýýý1.30m;transfer;1300000.0;ýýý1.30m
+2016/17;Departure;Szabolcs Huszti;33;Left Midfield;Hungary;;CC Yatai;ýýý1.00m;transfer;1000000.0;ýýý1.00m
+2016/17;Departure;Aleksandar Ignjovski;25;Defensive Midfield;Serbia;;SC Freiburg;ýýý750k;transfer;750000.0;ýýý750k
+2016/17;Departure;Johannes Flum;29;Central Midfield;Germany;;FC St. Pauli;free transfer;free;0.0;free transfer
+2016/17;Departure;ýýnis Ben-Hatira;28;Right Winger;Tunisia;;Darmstadt 98;free transfer;free;0.0;free transfer
+2016/17;Departure;Sonny Kittel;23;Attacking Midfield;Germany;;FC Ingolstadt;free transfer;free;0.0;free transfer
+2016/17;Departure;Yannick Zummack;20;Goalkeeper;Germany;;SF Lotte;free transfer;free;0.0;free transfer
+2016/17;Departure;Enis Bunjaki;19;Centre-Forward;Kosovo;;Twente FC;free transfer;free;0.0;free transfer
+2016/17;Departure;Joel Gerezgiher;21;Attacking Midfield;Germany;;Holstein Kiel;?;other;;?
+2016/17;Departure;Constant Djakpa;29;Left-Back;Cote d'Ivoire;;Without Club;-;undisclosed;;-
+2016/17;Departure;Emil Balayev;22;Goalkeeper;Azerbaijan;;Without Club;-;undisclosed;;-
+2016/17;Departure;Bamba Anderson;29;Centre-Back;Brazil;;;-;undisclosed;;-
+2016/17;Departure;Kaan Ayhan;21;Centre-Back;Tï¿½ï¿½ï;;FC Schalke 04;End of loan30.06.2016;loan_return;0.0;End of loan30.06.2016
+2017/18;Arrival;Sï¿½ï¿½ï¿½ï¿½ï¿½ï;23;Centre-Forward;Cote d'Ivoire;FC Utrecht;;ýýý12.00m;transfer;12000000.0;ýýý12.00m
+2017/18;Arrival;Jetro Willems;23;Centre-Back;Netherlands;PSV Eindhoven;;ýýý4.50m;transfer;4500000.0;ýýý4.50m
+2017/18;Arrival;Simon Falette;25;Centre-Back;Guinea;FC Metz;;ýýý2.70m;transfer;2700000.0;ýýý2.70m
+2017/18;Arrival;Daichi Kamada;20;Attacking Midfield;Japan;Sagan Tosu;;ýýý1.60m;transfer;1600000.0;ýýý1.60m
+2017/18;Arrival;Jonathan de Guzmï¿½;29;Central Midfield;Netherlands;Napoli;;ýýý1.00m;transfer;1000000.0;ýýý1.00m
+2017/18;Arrival;Danny da Costa;23;Centre-Back;Germany;B. Leverkusen;;ýýý1.00m;transfer;1000000.0;ýýý1.00m
+2017/18;Arrival;Carlos Salcedo;23;Centre-Back;Mexico;Chivas;;Loan fee:ï¿½ï¿½ï;loan;450000.0;Loan fee:ï¿½ï¿½ï
+2017/18;Arrival;Marijan Cavar;19;Central Midfield;Bosnia-Herzegovina;Zrinjski Mostar;;ýýý400k;transfer;400000.0;ýýý400k
+2017/18;Arrival;Gelson Fernandes;30;Defensive Midfield;Switzerland;Stade Rennais;;ýýý350k;transfer;350000.0;ýýý350k
+2017/18;Arrival;Luka Joviï¿;19;Centre-Forward;Serbia;Benfica;;Loan fee:ï¿½ï¿½ï;loan;200000.0;Loan fee:ï¿½ï¿½ï
+2017/18;Arrival;Kevin-Prince Boateng;30;Attacking Midfield;Ghana;UD Las Palmas;;free transfer;free;0.0;free transfer
+2017/18;Arrival;Jan Zimmermann;32;Goalkeeper;Germany;1860 Munich;;free transfer;free;0.0;free transfer
+2017/18;Arrival;Ante Rebiï¿;23;Left Winger;Croatia;Fiorentina;;loan transfer;loan;;loan transfer
+2017/18;Arrival;Deji Beyreuther;18;Centre-Back;Germany;Frankfurt U19;;-;undisclosed;;-
+2017/18;Arrival;Renat Dadashov;18;Centre-Forward;Azerbaijan;Frankfurt U19;;-;undisclosed;;-
+2017/18;Arrival;Noel Knothe;18;Centre-Back;Germany;Frankfurt U19;;-;undisclosed;;-
+2017/18;Arrival;Nelson Mandela Mbouhom;18;Central Midfield;Germany;Frankfurt U19;;-;undisclosed;;-
+2017/18;Departure;Bastian Oczipka;28;Left-Back;Germany;;FC Schalke 04;ýýý4.50m;transfer;4500000.0;ýýý4.50m
+2017/18;Departure;Andersson Ordï¿½ï¿½;24;Centre-Back;Ecuador;;LDU Quito;Loan fee:ï¿½ï¿½ï;loan;415000.0;Loan fee:ï¿½ï¿½ï
+2017/18;Departure;Haris Seferovic;25;Centre-Forward;Switzerland;;Benfica;free transfer;free;0.0;free transfer
+2017/18;Departure;Heinz Lindner;26;Goalkeeper;Austria;;Grasshoppers;free transfer;free;0.0;free transfer
+2017/18;Departure;Slobodan Medojevic;27;Defensive Midfield;Serbia;;Darmstadt 98;free transfer;free;0.0;free transfer
+2017/18;Departure;Furkan Zorba;19;Centre-Back;Germany;;VfL Osnabrï¿½ï;free transfer;free;0.0;free transfer
+2017/18;Departure;Max Besuschkow;20;Central Midfield;Germany;;Holstein Kiel;loan transfer;loan;;loan transfer
+2017/18;Departure;Yanni Regï¿½ï¿;22;Defensive Midfield;Germany;;Without Club;-;undisclosed;;-
+2017/18;Departure;Jesï¿½ï¿½ï¿½ï¿;20;Centre-Back;Spain;;Real Madrid;End of loan30.06.2017;loan_return;0.0;End of loan30.06.2017
+2017/18;Departure;Michael Hector;24;Centre-Back;Jamaica;;Chelsea;End of loan30.06.2017;loan_return;0.0;End of loan30.06.2017
+2017/18;Departure;Ante Rebiï¿;23;Left Winger;Croatia;;Fiorentina;End of loan30.06.2017;loan_return;0.0;End of loan30.06.2017
+2017/18;Departure;Shani Tarashaj;22;Second Striker;Switzerland;;Everton;End of loan30.06.2017;loan_return;0.0;End of loan30.06.2017
+2017/18;Departure;Guillermo Varela;24;Right-Back;Uruguay;;Man Utd;End of loan30.06.2017;loan_return;0.0;End of loan30.06.2017
+2018/19;Arrival;Evan Ndicka;18;Centre-Back;Cote d'Ivoire;AJ Auxerre;;ýýý5.50m;transfer;5500000.0;ýýý5.50m
+2018/19;Arrival;Carlos Salcedo;24;Centre-Back;Mexico;Chivas;;ýýý5.00m;transfer;5000000.0;ýýý5.00m
+2018/19;Arrival;Ante Rebiï¿;24;Left Winger;Croatia;Fiorentina;;ýýý4.50m;transfer;4500000.0;ýýý4.50m
+2018/19;Arrival;Tuta;19;Centre-Back;Brazil;Sï¿½ï¿½ï¿½ï¿½ï;;ýýý3.80m;transfer;3800000.0;ýýý3.80m
+2018/19;Arrival;Lucas Torrï¿;23;Defensive Midfield;Spain;Real Madrid;;ýýý3.50m;transfer;3500000.0;ýýý3.50m
+2018/19;Arrival;Gonï¿½ï¿½ï¿½ï¿½ï¿½ï;23;Centre-Forward;Portugal;FC Porto;;ýýý3.00m;transfer;3000000.0;ýýý3.00m
+2018/19;Arrival;Frederik Rï¿½ï¿½;25;Goalkeeper;Denmark;Brï¿½ï¿½ï¿½;;ýýý2.80m;transfer;2800000.0;ýýý2.80m
+2018/19;Arrival;Martin Hinteregger;26;Centre-Back;Austria;FC Augsburg;;Loan fee:ï¿½ï¿½ï;loan;800000.0;Loan fee:ï¿½ï¿½ï
+2018/19;Arrival;Almamy Tourï¿;22;Centre-Back;Mali;Monaco;;ýýý750k;transfer;750000.0;ýýý750k
+2018/19;Arrival;Filip Kostiï¿;25;Left Midfield;Serbia;Hamburger SV;;Loan fee:ï¿½ï¿½ï;loan;600000.0;Loan fee:ï¿½ï¿½ï
+2018/19;Arrival;Marius Wolf;23;Right-Back;Germany;Hannover 96;;ýýý500k;transfer;500000.0;ýýý500k
+2018/19;Arrival;Chico Geraldes;23;Attacking Midfield;Portugal;Sporting CP;;Loan fee:ï¿½ï¿½ï;loan;200000.0;Loan fee:ï¿½ï¿½ï
+2018/19;Arrival;Nicolai Mï¿½ï¿½;30;Attacking Midfield;Germany;Hamburger SV;;free transfer;free;0.0;free transfer
+2018/19;Arrival;Felix Wiedwald;28;Goalkeeper;Germany;Leeds;;free transfer;free;0.0;free transfer
+2018/19;Arrival;Kevin Trapp;28;Goalkeeper;Germany;Paris SG;;loan transfer;loan;;loan transfer
+2018/19;Arrival;Sebastian Rode;28;Central Midfield;Germany;Bor. Dortmund;;loan transfer;loan;;loan transfer
+2018/19;Arrival;Allan;21;Defensive Midfield;Brazil;Liverpool U21;;loan transfer;loan;;loan transfer
+2018/19;Arrival;ýýahverdi ýýetin;18;Central Midfield;Tï¿½ï¿½ï;Frankfurt U19;;-;undisclosed;;-
+2018/19;Arrival;Mischa Hï¿½ï¿½;18;Left Winger;Germany;Frankfurt U19;;-;undisclosed;;-
+2018/19;Arrival;Patrice Kabuya;18;Right Winger;Germany;Frankfurt U19;;-;undisclosed;;-
+2018/19;Arrival;Tobias Stirl;18;Goalkeeper;Germany;Frankfurt U19;;-;undisclosed;;-
+2018/19;Arrival;Nils Stendera;18;Central Midfield;Germany;Frankfurt U19;;-;undisclosed;;-
+2018/19;Arrival;Patrick Finger;18;Attacking Midfield;Germany;Frankfurt U19;;-;undisclosed;;-
+2018/19;Arrival;Max Besuschkow;21;Central Midfield;Germany;Holstein Kiel;;End of loan30.06.2018;loan_return;0.0;End of loan30.06.2018
+2018/19;Departure;Carlos Salcedo;25;Centre-Back;Mexico;;Tigres UANL;ýýý8.80m;transfer;8800000.0;ýýý8.80m
+2018/19;Departure;Marius Wolf;23;Right-Back;Germany;;Bor. Dortmund;ýýý5.00m;transfer;5000000.0;ýýý5.00m
+2018/19;Departure;Omar Mascarell;25;Defensive Midfield;Equatorial Guinea;;Real Madrid;ýýý4.00m;transfer;4000000.0;ýýý4.00m
+2018/19;Departure;Aymen Barkok;20;Attacking Midfield;Morocco;;F. Dï¿½ï¿½ï¿½ï;Loan fee:ï¿½ï¿½ï;loan;800000.0;Loan fee:ï¿½ï¿½ï
+2018/19;Departure;Nicolai Mï¿½ï¿½;31;Attacking Midfield;Germany;;Hannover 96;Loan fee:ï¿½ï¿½ï;loan;200000.0;Loan fee:ï¿½ï¿½ï
+2018/19;Departure;Danny Blum;27;Left Winger;Germany;;UD Las Palmas;Loan fee:ï¿½ï¿½ï;loan;100000.0;Loan fee:ï¿½ï¿½ï
+2018/19;Departure;Lukas Hradecky;28;Goalkeeper;Finland;;B. Leverkusen;free transfer;free;0.0;free transfer
+2018/19;Departure;Kevin-Prince Boateng;31;Attacking Midfield;Ghana;;Sassuolo;free transfer;free;0.0;free transfer
+2018/19;Departure;Marco Fabiï¿½;29;Attacking Midfield;Mexico;;Philadelphia;free transfer;free;0.0;free transfer
+2018/19;Departure;Renat Dadashov;19;Centre-Forward;Azerbaijan;;Estoril;free transfer;free;0.0;free transfer
+2018/19;Departure;Leon Bï¿½ï¿;20;Goalkeeper;Germany;;Wï¿½ï¿½ï¿½ï¿½ï¿;free transfer;free;0.0;free transfer
+2018/19;Departure;Daichi Kamada;22;Attacking Midfield;Japan;;Sint-Truiden;loan transfer;loan;;loan transfer
+2018/19;Departure;Felix Wiedwald;28;Goalkeeper;Germany;;MSV Duisburg;loan transfer;loan;;loan transfer
+2018/19;Departure;Marijan Cavar;20;Central Midfield;Bosnia-Herzegovina;;NK Osijek;loan transfer;loan;;loan transfer
+2018/19;Departure;Max Besuschkow;21;Central Midfield;Germany;;Union SG;loan transfer;loan;;loan transfer
+2018/19;Departure;Deji Beyreuther;19;Centre-Back;Germany;;Chemnitzer FC;loan transfer;loan;;loan transfer
+2018/19;Departure;Noel Knothe;19;Centre-Back;Germany;;FC Pipinsried;loan transfer;loan;;loan transfer
+2018/19;Departure;Alexander Meier;35;Second Striker;Germany;;Without Club;-;undisclosed;;-
+2018/19;Departure;Ante Rebiï¿;24;Left Winger;Croatia;;Fiorentina;End of loan30.06.2018;loan_return;0.0;End of loan30.06.2018
+2018/19;Departure;Marius Wolf;23;Right-Back;Germany;;Hannover 96;End of loan30.06.2018;loan_return;0.0;End of loan30.06.2018
+2018/19;Departure;Carlos Salcedo;24;Centre-Back;Mexico;;Chivas;End of loan30.06.2018;loan_return;0.0;End of loan30.06.2018
+2018/19;Departure;Chico Geraldes;23;Attacking Midfield;Portugal;;Sporting CP;End of loan23.12.2018;loan_return;0.0;End of loan23.12.2018
+2018/19;Departure;Allan;21;Defensive Midfield;Brazil;;Liverpool U21;End of loan31.01.2019;loan_return;0.0;End of loan31.01.2019
+2019/20;Arrival;Luka Joviï¿;21;Centre-Forward;Serbia;Benfica;;ýýý22.34m;transfer;22340000.0;ýýý22.34m
+2019/20;Arrival;Djibril Sow;22;Central Midfield;Switzerland;BSC Young Boys;;ýýý14.00m;transfer;14000000.0;ýýý14.00m
+2019/20;Arrival;Martin Hinteregger;26;Centre-Back;Austria;FC Augsburg;;ýýý9.00m;transfer;9000000.0;ýýý9.00m
+2019/20;Arrival;Dominik Kohr;25;Centre-Back;Germany;B. Leverkusen;;ýýý8.50m;transfer;8500000.0;ýýý8.50m
+2019/20;Arrival;Bas Dost;30;Centre-Forward;Netherlands;Sporting CP;;ýýý7.00m;transfer;7000000.0;ýýý7.00m
+2019/20;Arrival;Kevin Trapp;29;Goalkeeper;Germany;Paris SG;;ýýý7.00m;transfer;7000000.0;ýýý7.00m
+2019/20;Arrival;Filip Kostiï¿;26;Left Midfield;Serbia;Hamburger SV;;ýýý6.30m;transfer;6300000.0;ýýý6.30m
+2019/20;Arrival;Dejan Joveljiï¿;19;Centre-Forward;Serbia;Red Star;;ýýý4.00m;transfer;4000000.0;ýýý4.00m
+2019/20;Arrival;Sebastian Rode;28;Central Midfield;Germany;Bor. Dortmund;;ýýý4.00m;transfer;4000000.0;ýýý4.00m
+2019/20;Arrival;Stefan Ilsanker;30;Defensive Midfield;Austria;RB Leipzig;;ýýý500k;transfer;500000.0;ýýý500k
+2019/20;Arrival;Erik Durm;27;Right-Back;Germany;Huddersfield;;free transfer;free;0.0;free transfer
+2019/20;Arrival;Rodrigo Zalazar;19;Central Midfield;Uruguay;A. Malagueï¿½;;free transfer;free;0.0;free transfer
+2019/20;Arrival;Andrï¿½ï¿½ï¿;23;Centre-Forward;Portugal;AC Milan;;loan transfer;loan;;loan transfer
+2019/20;Arrival;Daichi Kamada;22;Attacking Midfield;Japan;Sint-Truiden;;End of loan30.06.2019;loan_return;0.0;End of loan30.06.2019
+2019/20;Arrival;Nicolai Mï¿½ï¿½;31;Attacking Midfield;Germany;Hannover 96;;End of loan30.06.2019;loan_return;0.0;End of loan30.06.2019
+2019/20;Arrival;Felix Wiedwald;29;Goalkeeper;Germany;MSV Duisburg;;End of loan30.06.2019;loan_return;0.0;End of loan30.06.2019
+2019/20;Arrival;Andersson Ordï¿½ï¿½;25;Centre-Back;Ecuador;LDU Quito;;End of loan30.06.2019;loan_return;0.0;End of loan30.06.2019
+2019/20;Arrival;Danny Blum;28;Left Winger;Germany;UD Las Palmas;;End of loan30.06.2019;loan_return;0.0;End of loan30.06.2019
+2019/20;Arrival;Max Besuschkow;22;Central Midfield;Germany;Union SG;;End of loan30.06.2019;loan_return;0.0;End of loan30.06.2019
+2019/20;Arrival;Marijan Cavar;21;Central Midfield;Bosnia-Herzegovina;NK Osijek;;End of loan30.06.2019;loan_return;0.0;End of loan30.06.2019
+2019/20;Arrival;Noel Knothe;20;Centre-Back;Germany;FC Pipinsried;;End of loan30.06.2019;loan_return;0.0;End of loan30.06.2019
+2019/20;Arrival;Deji Beyreuther;19;Centre-Back;Germany;Chemnitzer FC;;End of loan30.06.2019;loan_return;0.0;End of loan30.06.2019
+2019/20;Arrival;Rodrigo Zalazar;20;Central Midfield;Uruguay;Korona Kielce;;End of loan30.04.2020;loan_return;0.0;End of loan30.04.2020
+2019/20;Departure;Luka Joviï¿;21;Centre-Forward;Serbia;;Real Madrid;ýýý63.00m;transfer;63000000.0;ýýý63.00m
+2019/20;Departure;Sï¿½ï¿½ï¿½ï¿½ï¿½ï;25;Centre-Forward;Cote d'Ivoire;;West Ham;ýýý50.00m;transfer;50000000.0;ýýý50.00m
+2019/20;Departure;Jetro Willems;25;Centre-Back;Netherlands;;Newcastle;Loan fee:ï¿½ï¿½ï¿;loan;1000000.0;Loan fee:ï¿½ï¿½ï¿
+2019/20;Departure;Andersson Ordï¿½ï¿½;25;Centre-Back;Ecuador;;LDU Quito;ýýý450k;transfer;450000.0;ýýý450k
+2019/20;Departure;Danny Blum;28;Left Winger;Germany;;VfL Bochum;ýýý250k;transfer;250000.0;ýýý250k
+2019/20;Departure;Max Besuschkow;22;Central Midfield;Germany;;J. Regensburg;ýýý100k;transfer;100000.0;ýýý100k
+2019/20;Departure;Nicolai Mï¿½ï¿½;32;Attacking Midfield;Germany;;Western Sydney;free transfer;free;0.0;free transfer
+2019/20;Departure;Marc Stendera;23;Central Midfield;Germany;;Hannover 96;free transfer;free;0.0;free transfer
+2019/20;Departure;Branimir Hrgota;26;Centre-Forward;Sweden;;Greuther Fï¿½ï¿;free transfer;free;0.0;free transfer
+2019/20;Departure;Nelson Mandela Mbouhom;20;Central Midfield;Germany;;SF Lotte;free transfer;free;0.0;free transfer
+2019/20;Departure;Tobias Stirl;19;Goalkeeper;Germany;;Wolfsburg II;free transfer;free;0.0;free transfer
+2019/20;Departure;Patrice Kabuya;19;Right Winger;Germany;;Hamburger SV II;free transfer;free;0.0;free transfer
+2019/20;Departure;Mischa Hï¿½ï¿½;19;Left Winger;Germany;;FSV Frankfurt;free transfer;free;0.0;free transfer
+2019/20;Departure;Noel Knothe;20;Centre-Back;Germany;;Nuremberg II;free transfer;free;0.0;free transfer
+2019/20;Departure;Deji Beyreuther;19;Centre-Back;Germany;;Hoffenheim II;free transfer;free;0.0;free transfer
+2019/20;Departure;Ante Rebiï¿;25;Left Winger;Croatia;;AC Milan;loan transfer;loan;;loan transfer
+2019/20;Departure;Dejan Joveljiï¿;20;Centre-Forward;Serbia;;RSC Anderlecht;loan transfer;loan;;loan transfer
+2019/20;Departure;Simon Falette;27;Centre-Back;Guinea;;Fenerbahce;loan transfer;loan;;loan transfer
+2019/20;Departure;Tuta;20;Centre-Back;Brazil;;KV Kortrijk;loan transfer;loan;;loan transfer
+2019/20;Departure;Rodrigo Zalazar;19;Central Midfield;Uruguay;;Korona Kielce;loan transfer;loan;;loan transfer
+2019/20;Departure;Taleb Tawatha;27;Left-Back;Israel;;Without Club;-;undisclosed;;-
+2019/20;Departure;Luka Joviï¿;21;Centre-Forward;Serbia;;Benfica;End of loan30.06.2019;loan_return;0.0;End of loan30.06.2019
+2019/20;Departure;Filip Kostiï¿;26;Left Midfield;Serbia;;Hamburger SV;End of loan30.06.2019;loan_return;0.0;End of loan30.06.2019
+2019/20;Departure;Martin Hinteregger;26;Centre-Back;Austria;;FC Augsburg;End of loan30.06.2019;loan_return;0.0;End of loan30.06.2019
+2019/20;Departure;Kevin Trapp;28;Goalkeeper;Germany;;Paris SG;End of loan30.06.2019;loan_return;0.0;End of loan30.06.2019
+2019/20;Departure;Sebastian Rode;28;Central Midfield;Germany;;Bor. Dortmund;End of loan30.06.2019;loan_return;0.0;End of loan30.06.2019
+2020/21;Arrival;Andrï¿½ï¿½ï¿;24;Centre-Forward;Portugal;AC Milan;;ýýý3.00m;transfer;3000000.0;ýýý3.00m
+2020/21;Arrival;Steven Zuber;28;Attacking Midfield;Switzerland;TSG Hoffenheim;;ýýý3.00m;transfer;3000000.0;ýýý3.00m
+2020/21;Arrival;Ragnar Ache;21;Centre-Forward;Germany;Sparta R.;;ýýý2.00m;transfer;2000000.0;ýýý2.00m
+2020/21;Arrival;Luka Joviï¿;23;Centre-Forward;Serbia;Real Madrid;;Loan fee:ï¿½ï¿½ï¿;loan;1000000.0;Loan fee:ï¿½ï¿½ï¿
+2020/21;Arrival;Ajdin Hrustiï¿;24;Attacking Midfield;Australia;FC Groningen;;ýýý1.00m;transfer;1000000.0;ýýý1.00m
+2020/21;Arrival;Amin Younes;27;Left Winger;Germany;Napoli;;Loan fee:ï¿½ï¿½ï;loan;750000.0;Loan fee:ï¿½ï¿½ï
+2020/21;Arrival;Markus Schubert;22;Goalkeeper;Germany;FC Schalke 04;;loan transfer;loan;;loan transfer
+2020/21;Arrival;Ali Akman;18;Centre-Forward;Tï¿½ï¿½ï;Without Club;;-;undisclosed;;-
+2020/21;Arrival;Elias Bï¿½ï¿½ï;19;Goalkeeper;Germany;Frankfurt U19;;-;undisclosed;;-
+2020/21;Arrival;Lukas Fahrnberger;19;Defensive Midfield;Austria;Frankfurt U19;;-;undisclosed;;-
+2020/21;Arrival;Yannick Brugger;19;Centre-Back;Germany;Frankfurt U19;;-;undisclosed;;-
+2020/21;Arrival;Felix Irorere;18;Centre-Back;Germany;Frankfurt U19;;-;undisclosed;;-
+2020/21;Arrival;Fynn Otto;18;Centre-Back;Germany;Frankfurt U19;;-;undisclosed;;-
+2020/21;Arrival;Jabez Makanda;18;Defensive Midfield;Angola;Frankfurt U19;;-;undisclosed;;-
+2020/21;Arrival;Ante Rebiï¿;26;Left Winger;Croatia;AC Milan;;End of loan11.09.2020;loan_return;0.0;End of loan11.09.2020
+2020/21;Arrival;Jetro Willems;26;Centre-Back;Netherlands;Newcastle;;End of loan30.06.2020;loan_return;0.0;End of loan30.06.2020
+2020/21;Arrival;Dejan Joveljiï¿;20;Centre-Forward;Serbia;RSC Anderlecht;;End of loan30.06.2020;loan_return;0.0;End of loan30.06.2020
+2020/21;Arrival;Simon Falette;28;Centre-Back;Guinea;Fenerbahce;;End of loan03.08.2020;loan_return;0.0;End of loan03.08.2020
+2020/21;Arrival;Tuta;20;Centre-Back;Brazil;KV Kortrijk;;End of loan30.06.2020;loan_return;0.0;End of loan30.06.2020
+2020/21;Arrival;Aymen Barkok;22;Attacking Midfield;Morocco;F. Dï¿½ï¿½ï¿½ï;;End of loan30.06.2020;loan_return;0.0;End of loan30.06.2020
+2020/21;Departure;Ante Rebiï¿;26;Left Winger;Croatia;;AC Milan;ýýý6.70m;transfer;6700000.0;ýýý6.70m
+2020/21;Departure;Bas Dost;31;Centre-Forward;Netherlands;;Club Brugge;ýýý4.00m;transfer;4000000.0;ýýý4.00m
+2020/21;Departure;Mijat Gacinovic;25;Attacking Midfield;Serbia;;TSG Hoffenheim;ýýý3.00m;transfer;3000000.0;ýýý3.00m
+2020/21;Departure;Gonï¿½ï¿½ï¿½ï¿½ï¿½ï;26;Centre-Forward;Portugal;;FC Schalke 04;Loan fee:ï¿½ï¿½ï¿;loan;2000000.0;Loan fee:ï¿½ï¿½ï¿
+2020/21;Departure;Lucas Torrï¿;26;Defensive Midfield;Spain;;CA Osasuna;ýýý2.00m;transfer;2000000.0;ýýý2.00m
+2020/21;Departure;Simon Falette;28;Centre-Back;Guinea;;Hannover 96;free transfer;free;0.0;free transfer
+2020/21;Departure;Felix Wiedwald;30;Goalkeeper;Germany;;FC Emmen;free transfer;free;0.0;free transfer
+2020/21;Departure;Marijan Cavar;22;Central Midfield;Bosnia-Herzegovina;;Greuther Fï¿½ï¿;free transfer;free;0.0;free transfer
+2020/21;Departure;ýýahverdi ýýetin;19;Central Midfield;Tï¿½ï¿½ï;;Ankaragï¿½ï¿;free transfer;free;0.0;free transfer
+2020/21;Departure;David Abraham;34;Centre-Back;Argentina;;CA Huracï¿½;free transfer;free;0.0;free transfer
+2020/21;Departure;Patrick Finger;19;Attacking Midfield;Germany;;SVO Biebesheim;free transfer;free;0.0;free transfer
+2020/21;Departure;Danny da Costa;27;Centre-Back;Germany;;1.FSV Mainz 05;loan transfer;loan;;loan transfer
+2020/21;Departure;Dominik Kohr;26;Centre-Back;Germany;;1.FSV Mainz 05;loan transfer;loan;;loan transfer
+2020/21;Departure;Dejan Joveljiï¿;21;Centre-Forward;Serbia;;Wolfsberger AC;loan transfer;loan;;loan transfer
+2020/21;Departure;Frederik Rï¿½ï¿½;28;Goalkeeper;Denmark;;FC Schalke 04;loan transfer;loan;;loan transfer
+2020/21;Departure;Rodrigo Zalazar;20;Central Midfield;Uruguay;;FC St. Pauli;loan transfer;loan;;loan transfer
+2020/21;Departure;Nils Stendera;19;Central Midfield;Germany;;Lok Leipzig;loan transfer;loan;;loan transfer
+2020/21;Departure;Jonathan de Guzmï¿½;32;Central Midfield;Netherlands;;Without Club;-;undisclosed;;-
+2020/21;Departure;Marco Russ;34;Centre-Back;Germany;;;-;undisclosed;;-
+2020/21;Departure;Jan Zimmermann;35;Goalkeeper;Germany;;;-;undisclosed;;-
+2020/21;Departure;Gelson Fernandes;33;Defensive Midfield;Switzerland;;;-;undisclosed;;-
+2020/21;Departure;Andrï¿½ï¿½ï¿;24;Centre-Forward;Portugal;;AC Milan;End of loan09.09.2020;loan_return;0.0;End of loan09.09.2020
+2021/22;Arrival;Jesper Lindstrï¿½;21;Right Winger;Denmark;Brï¿½ï¿½ï¿½;;ýýý7.00m;transfer;7000000.0;ýýý7.00m
+2021/22;Arrival;Sam Lammers;24;Centre-Forward;Netherlands;Atalanta BC;;Loan fee:ï¿½ï¿½ï¿;loan;3600000.0;Loan fee:ï¿½ï¿½ï¿
+2021/22;Arrival;Igor Matanovic;18;Centre-Forward;Croatia;FC St. Pauli;;ýýý1.84m;transfer;1840000.0;ýýý1.84m
+2021/22;Arrival;Jens Petter Hauge;21;Left Winger;Norway;AC Milan;;Loan fee:ï¿½ï¿½ï¿;loan;1600000.0;Loan fee:ï¿½ï¿½ï¿
+2021/22;Arrival;Ansgar Knauff;20;Right Winger;Germany;Bor. Dortmund;;Loan fee:ï¿½ï¿½ï;loan;400000.0;Loan fee:ï¿½ï¿½ï
+2021/22;Arrival;Jens Grahl;32;Goalkeeper;Germany;VfB Stuttgart;;ýýý250k;transfer;250000.0;ýýý250k
+2021/22;Arrival;Diant Ramaj;19;Goalkeeper;Germany;Heidenheim;;ýýý100k;transfer;100000.0;ýýý100k
+2021/22;Arrival;Rafael Borrï¿;25;Centre-Forward;Colombia;River Plate;;free transfer;free;0.0;free transfer
+2021/22;Arrival;Christopher Lenz;26;Left-Back;Germany;Union Berlin;;free transfer;free;0.0;free transfer
+2021/22;Arrival;Fabio Blanco;17;Left Winger;Spain;Valencia U19;;free transfer;free;0.0;free transfer
+2021/22;Arrival;Enrique Herrero;16;Centre-Forward;Spain;Villarreal Yth.;;free transfer;free;0.0;free transfer
+2021/22;Arrival;Kristijan Jakic;24;Defensive Midfield;Croatia;Dinamo Zagreb;;loan transfer;loan;;loan transfer
+2021/22;Arrival;Antonio Foti;18;Attacking Midfield;Cyprus;Frankfurt U19;;-;undisclosed;;-
+2021/22;Arrival;Jan Schrï¿½ï¿;18;Left-Back;Germany;Frankfurt U19;;-;undisclosed;;-
+2021/22;Arrival;Martin Pecar;18;Attacking Midfield;Slovenia;Frankfurt U19;;-;undisclosed;;-
+2021/22;Arrival;Danny da Costa;27;Centre-Back;Germany;1.FSV Mainz 05;;End of loan30.06.2021;loan_return;0.0;End of loan30.06.2021
+2021/22;Arrival;Gonï¿½ï¿½ï¿½ï¿½ï¿½ï;26;Centre-Forward;Portugal;FC Schalke 04;;End of loan30.06.2021;loan_return;0.0;End of loan30.06.2021
+2021/22;Arrival;Dejan Joveljiï¿;21;Centre-Forward;Serbia;Wolfsberger AC;;End of loan30.06.2021;loan_return;0.0;End of loan30.06.2021
+2021/22;Arrival;Frederik Rï¿½ï¿½;28;Goalkeeper;Denmark;FC Schalke 04;;End of loan30.06.2021;loan_return;0.0;End of loan30.06.2021
+2021/22;Arrival;Rodrigo Zalazar;21;Central Midfield;Uruguay;FC St. Pauli;;End of loan30.06.2021;loan_return;0.0;End of loan30.06.2021
+2021/22;Arrival;Nils Stendera;20;Central Midfield;Germany;Lok Leipzig;;End of loan30.06.2021;loan_return;0.0;End of loan30.06.2021
+2021/22;Departure;Andrï¿½ï¿½ï¿;25;Centre-Forward;Portugal;;RB Leipzig;ýýý23.00m;transfer;23000000.0;ýýý23.00m
+2021/22;Departure;Dejan Joveljiï¿;21;Centre-Forward;Serbia;;LA Galaxy;ýýý3.50m;transfer;3500000.0;ýýý3.50m
+2021/22;Departure;Frederik Rï¿½ï¿½;28;Goalkeeper;Denmark;;Union Berlin;ýýý1.00m;transfer;1000000.0;ýýý1.00m
+2021/22;Departure;Fabio Blanco;17;Left Winger;Spain;;Barï¿½ï¿½ï¿½ï¿½;ýýý500k;transfer;500000.0;ýýý500k
+2021/22;Departure;Steven Zuber;30;Attacking Midfield;Switzerland;;AEK Athens;Loan fee:ï¿½ï¿½ï;loan;400000.0;Loan fee:ï¿½ï¿½ï
+2021/22;Departure;Jetro Willems;27;Centre-Back;Netherlands;;Greuther Fï¿½ï¿;free transfer;free;0.0;free transfer
+2021/22;Departure;Jabez Makanda;20;Defensive Midfield;Angola;;FK Pirmasens;free transfer;free;0.0;free transfer
+2021/22;Departure;Yannick Brugger;20;Centre-Back;Germany;;Admira Wacker;free transfer;free;0.0;free transfer
+2021/22;Departure;Nils Stendera;20;Central Midfield;Germany;;Hessen Kassel;free transfer;free;0.0;free transfer
+2021/22;Departure;Felix Irorere;19;Centre-Back;Germany;;Karlsruher SC;?;other;;?
+2021/22;Departure;Rodrigo Zalazar;21;Central Midfield;Uruguay;;FC Schalke 04;loan transfer;loan;;loan transfer
+2021/22;Departure;Ali Akman;19;Centre-Forward;Tï¿½ï¿½ï;;NEC Nijmegen;loan transfer;loan;;loan transfer
+2021/22;Departure;Igor Matanovic;18;Centre-Forward;Croatia;;FC St. Pauli;loan transfer;loan;;loan transfer
+2021/22;Departure;Martin Pecar;19;Attacking Midfield;Slovenia;;Austria Vienna;loan transfer;loan;;loan transfer
+2021/22;Departure;Elias Bï¿½ï¿½ï;19;Goalkeeper;Germany;;Viktoria Kï¿½ï;loan transfer;loan;;loan transfer
+2021/22;Departure;Fynn Otto;19;Centre-Back;Germany;;Hallescher FC;loan transfer;loan;;loan transfer
+2021/22;Departure;Lukas Fahrnberger;20;Defensive Midfield;Austria;;;-;undisclosed;;-
+2021/22;Departure;Luka Joviï¿;23;Centre-Forward;Serbia;;Real Madrid;End of loan30.06.2021;loan_return;0.0;End of loan30.06.2021
+2021/22;Departure;Markus Schubert;23;Goalkeeper;Germany;;FC Schalke 04;End of loan30.06.2021;loan_return;0.0;End of loan30.06.2021
+2021/22;Departure;Amin Younes;28;Left Winger;Germany;;Napoli;End of loan18.01.2022;loan_return;0.0;End of loan18.01.2022
+2022/23;Arrival;Jens Petter Hauge;22;Left Winger;Norway;AC Milan;;ýýý8.20m;transfer;8200000.0;ýýý8.20m
+2022/23;Arrival;Lucas Alario;29;Centre-Forward;Argentina;B. Leverkusen;;ýýý6.00m;transfer;6000000.0;ýýý6.00m
+2022/23;Arrival;Paxten Aaronson;19;Attacking Midfield;United States;Philadelphia;;ýýý4.00m;transfer;4000000.0;ýýý4.00m
+2022/23;Arrival;Kristijan Jakic;25;Defensive Midfield;Croatia;Dinamo Zagreb;;ýýý3.50m;transfer;3500000.0;ýýý3.50m
+2022/23;Arrival;Mario Gï¿½ï¿;30;Attacking Midfield;Germany;PSV Eindhoven;;ýýý3.00m;transfer;3000000.0;ýýý3.00m
+2022/23;Arrival;Hrvoje Smolcic;21;Centre-Back;Croatia;HNK Rijeka;;ýýý2.50m;transfer;2500000.0;ýýý2.50m
+2022/23;Arrival;Simon Simoni;18;Goalkeeper;Albania;Dinamo City;;ýýý600k;transfer;600000.0;ýýý600k
+2022/23;Arrival;Randal Kolo Muani;23;Centre-Forward;France;FC Nantes;;free transfer;free;0.0;free transfer
+2022/23;Arrival;Jï¿½ï¿½ï¿½ï¿½ï¿½ï¿;24;Centre-Back;Cameroon;RB Salzburg;;free transfer;free;0.0;free transfer
+2022/23;Arrival;Aurï¿½ï¿½ï¿½ï;25;Right-Back;Portugal;Royal Antwerp;;free transfer;free;0.0;free transfer
+2022/23;Arrival;Faride Alidou;20;Left Winger;Germany;Hamburger SV;;free transfer;free;0.0;free transfer
+2022/23;Arrival;Marcel Wenig;18;Central Midfield;Germany;FC Bayern U19;;free transfer;free;0.0;free transfer
+2022/23;Arrival;Luca Pellegrini;23;Left-Back;Italy;Juventus;;loan transfer;loan;;loan transfer
+2022/23;Arrival;Philipp Max;29;Left-Back;Germany;PSV Eindhoven;;loan transfer;loan;;loan transfer
+2022/23;Arrival;Junior Dina Ebimbe;21;Right Midfield;France;Paris SG;;loan transfer;loan;;loan transfer
+2022/23;Arrival;Nacho Ferri;18;Centre-Forward;Spain;E. Frankfurt II;;-;undisclosed;;-
+2022/23;Arrival;Dominik Kohr;28;Centre-Back;Germany;1.FSV Mainz 05;;End of loan30.06.2022;loan_return;0.0;End of loan30.06.2022
+2022/23;Arrival;Rodrigo Zalazar;22;Central Midfield;Uruguay;FC Schalke 04;;End of loan30.06.2022;loan_return;0.0;End of loan30.06.2022
+2022/23;Arrival;Steven Zuber;30;Attacking Midfield;Switzerland;AEK Athens;;End of loan30.06.2022;loan_return;0.0;End of loan30.06.2022
+2022/23;Arrival;Ali Akman;20;Centre-Forward;Tï¿½ï¿½ï;NEC Nijmegen;;End of loan30.06.2022;loan_return;0.0;End of loan30.06.2022
+2022/23;Arrival;Martin Pecar;19;Attacking Midfield;Slovenia;Austria Vienna;;End of loan30.06.2022;loan_return;0.0;End of loan30.06.2022
+2022/23;Arrival;Elias Bï¿½ï¿½ï;20;Goalkeeper;Germany;Viktoria Kï¿½ï;;End of loan30.06.2022;loan_return;0.0;End of loan30.06.2022
+2022/23;Arrival;Fynn Otto;20;Centre-Back;Germany;Hallescher FC;;End of loan30.06.2022;loan_return;0.0;End of loan30.06.2022
+2022/23;Departure;Filip Kostiï¿;29;Left Midfield;Serbia;;Juventus;ýýý14.70m;transfer;14700000.0;ýýý14.70m
+2022/23;Departure;Steven Zuber;30;Attacking Midfield;Switzerland;;AEK Athens;ýýý1.60m;transfer;1600000.0;ýýý1.60m
+2022/23;Departure;Dominik Kohr;28;Centre-Back;Germany;;1.FSV Mainz 05;ýýý1.50m;transfer;1500000.0;ýýý1.50m
+2022/23;Departure;Rodrigo Zalazar;22;Central Midfield;Uruguay;;FC Schalke 04;ýýý1.50m;transfer;1500000.0;ýýý1.50m
+2022/23;Departure;Gonï¿½ï¿½ï¿½ï¿½ï¿½ï;28;Centre-Forward;Portugal;;Celta de Vigo;ýýý790k;transfer;790000.0;ýýý790k
+2022/23;Departure;Ajdin Hrustiï¿;26;Attacking Midfield;Australia;;Hellas Verona;ýýý500k;transfer;500000.0;ýýý500k
+2022/23;Departure;Enrique Herrero;17;Centre-Forward;Spain;;Real Madrid U19;ýýý300k;transfer;300000.0;ýýý300k
+2022/23;Departure;Danny da Costa;28;Centre-Back;Germany;;1.FSV Mainz 05;free transfer;free;0.0;free transfer
+2022/23;Departure;Aymen Barkok;24;Attacking Midfield;Morocco;;1.FSV Mainz 05;free transfer;free;0.0;free transfer
+2022/23;Departure;Erik Durm;30;Right-Back;Germany;;1.FC K'lautern;free transfer;free;0.0;free transfer
+2022/23;Departure;Stefan Ilsanker;33;Defensive Midfield;Austria;;Genoa;free transfer;free;0.0;free transfer
+2022/23;Departure;Elias Bï¿½ï¿½ï;20;Goalkeeper;Germany;;Viktoria Kï¿½ï;free transfer;free;0.0;free transfer
+2022/23;Departure;Martin Hinteregger;29;Centre-Back;Austria;;SGA Sirnitz;free transfer;free;0.0;free transfer
+2022/23;Departure;Martin Pecar;19;Attacking Midfield;Slovenia;;Young Violets;?;other;;?
+2022/23;Departure;Jens Petter Hauge;22;Left Winger;Norway;;KAA Gent;loan transfer;loan;;loan transfer
+2022/23;Departure;Jï¿½ï¿½ï¿½ï¿½ï¿½ï¿;25;Centre-Back;Cameroon;;RB Salzburg;loan transfer;loan;;loan transfer
+2022/23;Departure;Ragnar Ache;23;Centre-Forward;Germany;;Greuther Fï¿½ï¿;loan transfer;loan;;loan transfer
+2022/23;Departure;Ali Akman;20;Centre-Forward;Tï¿½ï¿½ï;;Gï¿½ï¿½ï;loan transfer;loan;;loan transfer
+2022/23;Departure;Antonio Foti;18;Attacking Midfield;Cyprus;;Hannover 96;loan transfer;loan;;loan transfer
+2022/23;Departure;Fynn Otto;20;Centre-Back;Germany;;E. Frankfurt II;-;undisclosed;;-
+2022/23;Departure;Kristijan Jakic;25;Defensive Midfield;Croatia;;Dinamo Zagreb;End of loan30.06.2022;loan_return;0.0;End of loan30.06.2022
+2022/23;Departure;Luca Pellegrini;23;Left-Back;Italy;;Juventus;End of loan30.01.2023;loan_return;0.0;End of loan30.01.2023
+2022/23;Departure;Jens Petter Hauge;22;Left Winger;Norway;;AC Milan;End of loan30.06.2022;loan_return;0.0;End of loan30.06.2022
+2022/23;Departure;Sam Lammers;25;Centre-Forward;Netherlands;;Atalanta BC;End of loan30.06.2022;loan_return;0.0;End of loan30.06.2022
+2023/24;Arrival;Willian Pacho;21;Centre-Back;Ecuador;Royal Antwerp;;ýýý13.65m;transfer;13650000.0;ýýý13.65m
+2023/24;Arrival;Farï¿½ï¿½ï¿½ï¿;20;Attacking Midfield;Algeria;Toulouse;;ýýý10.00m;transfer;10000000.0;ýýý10.00m
+2023/24;Arrival;Aurï¿½ï¿½ï¿½ï¿;20;Centre-Back;Switzerland;BSC Young Boys;;ýýý9.50m;transfer;9500000.0;ýýý9.50m
+2023/24;Arrival;Hugo Larsson;19;Central Midfield;Sweden;Malmï¿½ï¿;;ýýý9.00m;transfer;9000000.0;ýýý9.00m
+2023/24;Arrival;Jean-Mattï¿½ï¿½ï¿½ï;18;Left Winger;France;Angers SCO;;ýýý8.00m;transfer;8000000.0;ýýý8.00m
+2023/24;Arrival;Niels Nkounkou;22;Left-Back;France;Saint-ï¿½ï¿½ï¿;;ýýý7.50m;transfer;7500000.0;ýýý7.50m
+2023/24;Arrival;Junior Dina Ebimbe;22;Right Midfield;France;Paris SG;;ýýý6.50m;transfer;6500000.0;ýýý6.50m
+2023/24;Arrival;Ansgar Knauff;21;Right Winger;Germany;Bor. Dortmund;;ýýý5.00m;transfer;5000000.0;ýýý5.00m
+2023/24;Arrival;Jessic Ngankam;22;Centre-Forward;Germany;Hertha BSC;;ýýý4.00m;transfer;4000000.0;ýýý4.00m
+2023/24;Arrival;Hugo Ekitikï¿;21;Centre-Forward;France;Paris SG;;Loan fee:ï¿½ï¿½ï¿;loan;3500000.0;Loan fee:ï¿½ï¿½ï¿
+2023/24;Arrival;Donny van de Beek;26;Central Midfield;Netherlands;Man Utd;;Loan fee:ï¿½ï¿½ï¿;loan;3000000.0;Loan fee:ï¿½ï¿½ï¿
+2023/24;Arrival;Nathaniel Brown;20;Left-Back;Germany;1.FC Nuremberg;;ýýý3.00m;transfer;3000000.0;ýýý3.00m
+2023/24;Arrival;Philipp Max;29;Left-Back;Germany;PSV Eindhoven;;ýýý2.00m;transfer;2000000.0;ýýý2.00m
+2023/24;Arrival;Kauï¿½ï¿½ï¿½;20;Goalkeeper;Brazil;Flamengo U20;;ýýý1.60m;transfer;1600000.0;ýýý1.60m
+2023/24;Arrival;Nnamdi Collins;19;Centre-Back;Germany;B. Dortmund II;;ýýý1.00m;transfer;1000000.0;ýýý1.00m
+2023/24;Arrival;Robin Koch;26;Centre-Back;Germany;Leeds;;Loan fee:ï¿½ï¿½ï;loan;500000.0;Loan fee:ï¿½ï¿½ï
+2023/24;Arrival;Rafael Borrï¿;28;Centre-Forward;Colombia;Werder Bremen;;End of loan04.03.2024;loan_return;0.0;End of loan04.03.2024
+2023/24;Arrival;Sidney Raebiger;18;Central Midfield;Germany;Greuther Fï¿½ï¿;;ýýý50k;transfer;50000.0;ýýý50k
+2023/24;Arrival;Ellyes Skhiri;28;Defensive Midfield;Tunisia;1.FC Kï¿½ï;;free transfer;free;0.0;free transfer
+2023/24;Arrival;Omar Marmoush;24;Centre-Forward;Egypt;VfL Wolfsburg;;free transfer;free;0.0;free transfer
+2023/24;Arrival;Sasa Kalajdzic;26;Centre-Forward;Austria;Wolves;;loan transfer;loan;;loan transfer
+2023/24;Arrival;Dario Gebuhr;20;Centre-Back;Germany;E. Frankfurt II;;-;undisclosed;;-
+2023/24;Arrival;Elias Baum;18;Right-Back;Germany;E. Frankfurt II;;-;undisclosed;;-
+2023/24;Arrival;Harpreet Ghotra;20;Central Midfield;Germany;E. Frankfurt II;;-;undisclosed;;-
+2023/24;Arrival;Jens Petter Hauge;23;Left Winger;Norway;KAA Gent;;End of loan30.06.2023;loan_return;0.0;End of loan30.06.2023
+2023/24;Arrival;Jï¿½ï¿½ï¿½ï¿½ï¿½ï¿;25;Centre-Back;Cameroon;RB Salzburg;;End of loan30.06.2023;loan_return;0.0;End of loan30.06.2023
+2023/24;Arrival;Ragnar Ache;24;Centre-Forward;Germany;Greuther Fï¿½ï¿;;End of loan30.06.2023;loan_return;0.0;End of loan30.06.2023
+2023/24;Arrival;Igor Matanovic;20;Centre-Forward;Croatia;FC St. Pauli;;End of loan30.06.2023;loan_return;0.0;End of loan30.06.2023
+2023/24;Arrival;Ali Akman;21;Centre-Forward;Tï¿½ï¿½ï;Gï¿½ï¿½ï;;End of loan30.06.2023;loan_return;0.0;End of loan30.06.2023
+2023/24;Departure;Randal Kolo Muani;24;Centre-Forward;France;;Paris SG;ýýý95.00m;transfer;95000000.0;ýýý95.00m
+2023/24;Departure;Jesper Lindstrï¿½;23;Right Winger;Denmark;;Napoli;ýýý30.00m;transfer;30000000.0;ýýý30.00m
+2023/24;Departure;Djibril Sow;26;Central Midfield;Switzerland;;Sevilla FC;ýýý10.00m;transfer;10000000.0;ýýý10.00m
+2023/24;Departure;Rafael Borrï¿;28;Centre-Forward;Colombia;;Internacional;ýýý6.50m;transfer;6500000.0;ýýý6.50m
+2023/24;Departure;Diant Ramaj;21;Goalkeeper;Germany;;Ajax;ýýý5.00m;transfer;5000000.0;ýýý5.00m
+2023/24;Departure;Ragnar Ache;24;Centre-Forward;Germany;;1.FC K'lautern;ýýý1.50m;transfer;1500000.0;ýýý1.50m
+2023/24;Departure;Christopher Lenz;28;Left-Back;Germany;;RB Leipzig;ýýý1.00m;transfer;1000000.0;ýýý1.00m
+2023/24;Departure;Lucas Alario;31;Centre-Forward;Argentina;;Internacional;ýýý500k;transfer;500000.0;ýýý500k
+2023/24;Departure;Evan Ndicka;23;Centre-Back;Cote d'Ivoire;;AS Roma;free transfer;free;0.0;free transfer
+2023/24;Departure;Daichi Kamada;26;Attacking Midfield;Japan;;Lazio;free transfer;free;0.0;free transfer
+2023/24;Departure;Jan Schrï¿½ï¿;20;Left-Back;Germany;;Delaware;free transfer;free;0.0;free transfer
+2023/24;Departure;Ali Akman;21;Centre-Forward;Tï¿½ï¿½ï;;FCV Dender EH;?;other;;?
+2023/24;Departure;Rafael Borrï¿;27;Centre-Forward;Colombia;;Werder Bremen;loan transfer;loan;;loan transfer
+2023/24;Departure;Kristijan Jakic;26;Defensive Midfield;Croatia;;FC Augsburg;loan transfer;loan;;loan transfer
+2023/24;Departure;Aurï¿½ï¿½ï¿½ï¿;20;Centre-Back;Switzerland;;BSC Young Boys;loan transfer;loan;;loan transfer
+2023/24;Departure;Paxten Aaronson;20;Attacking Midfield;United States;;Vitesse;loan transfer;loan;;loan transfer
+2023/24;Departure;Jessic Ngankam;23;Centre-Forward;Germany;;1.FSV Mainz 05;loan transfer;loan;;loan transfer
+2023/24;Departure;Nathaniel Brown;20;Left-Back;Germany;;1.FC Nuremberg;loan transfer;loan;;loan transfer
+2023/24;Departure;Jens Petter Hauge;24;Left Winger;Norway;;Bodï¿½ï¿½ï¿;loan transfer;loan;;loan transfer
+2023/24;Departure;Faride Alidou;22;Left Winger;Germany;;1.FC Kï¿½ï;loan transfer;loan;;loan transfer
+2023/24;Departure;Jï¿½ï¿½ï¿½ï¿½ï¿½ï¿;25;Centre-Back;Cameroon;;Servette FC;loan transfer;loan;;loan transfer
+2023/24;Departure;Igor Matanovic;20;Centre-Forward;Croatia;;Karlsruher SC;loan transfer;loan;;loan transfer
+2023/24;Departure;Marcel Wenig;19;Central Midfield;Germany;;1.FC Nuremberg;loan transfer;loan;;loan transfer
+2023/24;Departure;Almamy Tourï¿;27;Centre-Back;Mali;;Without Club;-;undisclosed;;-
+2023/24;Departure;Junior Dina Ebimbe;22;Right Midfield;France;;Paris SG;End of loan30.06.2023;loan_return;0.0;End of loan30.06.2023
+2023/24;Departure;Ansgar Knauff;21;Right Winger;Germany;;Bor. Dortmund;End of loan30.06.2023;loan_return;0.0;End of loan30.06.2023
+2023/24;Departure;Philipp Max;29;Left-Back;Germany;;PSV Eindhoven;End of loan30.06.2023;loan_return;0.0;End of loan30.06.2023
+2024/25;Arrival;Hugo Ekitikï¿;22;Centre-Forward;France;Paris SG;;ýýý31.50m;transfer;31500000.0;ýýý31.50m
+2024/25;Arrival;Elye Wahi;22;Centre-Forward;France;Marseille;;ýýý26.00m;transfer;26000000.0;ýýý26.00m
+2024/25;Arrival;Arthur Theate;24;Centre-Back;Belgium;Stade Rennais;;ýýý13.00m;transfer;13000000.0;ýýý13.00m
+2024/25;Arrival;Can Uzun;18;Attacking Midfield;Tï¿½ï¿½ï;1.FC Nuremberg;;ýýý11.00m;transfer;11000000.0;ýýý11.00m
+2024/25;Arrival;Krisztiï¿½ï¿½ï¿½ï¿;19;Attacking Midfield;Hungary;Ferencvï¿½ï¿;;ýýý6.00m;transfer;6000000.0;ýýý6.00m
+2024/25;Arrival;Michy Batshuayi;31;Centre-Forward;Belgium;Galatasaray;;ýýý3.00m;transfer;3000000.0;ýýý3.00m
+2024/25;Arrival;Oscar Hï¿½ï¿½ï;19;Central Midfield;Denmark;FC Copenhagen;;ýýý1.35m;transfer;1350000.0;ýýý1.35m
+2024/25;Arrival;Robin Koch;27;Centre-Back;Germany;Leeds;;free transfer;free;0.0;free transfer
+2024/25;Arrival;Mahmoud Dahoud;28;Central Midfield;Syria;Brighton;;free transfer;free;0.0;free transfer
+2024/25;Arrival;Arthur Theate;24;Centre-Back;Belgium;Stade Rennais;;loan transfer;loan;;loan transfer
+2024/25;Arrival;Rasmus Kristensen;27;Right-Back;Denmark;Leeds;;loan transfer;loan;;loan transfer
+2024/25;Arrival;Aurï¿½ï¿½ï¿½ï¿;20;Centre-Back;Switzerland;BSC Young Boys;;End of loan30.06.2024;loan_return;0.0;End of loan30.06.2024
+2024/25;Arrival;Kristijan Jakic;27;Defensive Midfield;Croatia;FC Augsburg;;End of loan30.06.2024;loan_return;0.0;End of loan30.06.2024
+2024/25;Arrival;Igor Matanovic;21;Centre-Forward;Croatia;Karlsruher SC;;End of loan30.06.2024;loan_return;0.0;End of loan30.06.2024
+2024/25;Arrival;Jens Petter Hauge;25;Left Winger;Norway;Bodï¿½ï¿½ï¿;;End of loan31.12.2024;loan_return;0.0;End of loan31.12.2024
+2024/25;Arrival;Paxten Aaronson;20;Attacking Midfield;United States;Vitesse;;End of loan30.06.2024;loan_return;0.0;End of loan30.06.2024
+2024/25;Arrival;Nathaniel Brown;21;Left-Back;Germany;1.FC Nuremberg;;End of loan30.06.2024;loan_return;0.0;End of loan30.06.2024
+2024/25;Arrival;Faride Alidou;22;Left Winger;Germany;1.FC Kï¿½ï;;End of loan30.06.2024;loan_return;0.0;End of loan30.06.2024
+2024/25;Arrival;Faride Alidou;23;Left Winger;Germany;Hellas Verona;;End of loan22.01.2025;loan_return;0.0;End of loan22.01.2025
+2024/25;Arrival;Jessic Ngankam;23;Centre-Forward;Germany;1.FSV Mainz 05;;End of loan30.06.2024;loan_return;0.0;End of loan30.06.2024
+2024/25;Arrival;Marcel Wenig;20;Central Midfield;Germany;1.FC Nuremberg;;End of loan30.06.2024;loan_return;0.0;End of loan30.06.2024
+2024/25;Arrival;Antonio Foti;20;Attacking Midfield;Cyprus;Hannover 96;;End of loan30.06.2024;loan_return;0.0;End of loan30.06.2024
+2024/25;Arrival;Jï¿½ï¿½ï¿½ï¿½ï¿½ï¿;26;Centre-Back;Cameroon;Servette FC;;End of loan30.06.2024;loan_return;0.0;End of loan30.06.2024
+2024/25;Arrival;Simon Simoni;20;Goalkeeper;Albania;FC Ingolstadt;;End of loan14.01.2025;loan_return;0.0;End of loan14.01.2025
+2024/25;Departure;Omar Marmoush;25;Centre-Forward;Egypt;;Man City;ýýý75.00m;transfer;75000000.0;ýýý75.00m
+2024/25;Departure;Willian Pacho;22;Centre-Back;Ecuador;;Paris SG;ýýý40.00m;transfer;40000000.0;ýýý40.00m
+2024/25;Departure;Kristijan Jakic;27;Defensive Midfield;Croatia;;FC Augsburg;ýýý5.00m;transfer;5000000.0;ýýý5.00m
+2024/25;Departure;Jens Petter Hauge;25;Left Winger;Norway;;Bodï¿½ï¿½ï¿;ýýý3.50m;transfer;3500000.0;ýýý3.50m
+2024/25;Departure;Philipp Max;30;Left-Back;Germany;;Panathinaikos;ýýý1.00m;transfer;1000000.0;ýýý1.00m
+2024/25;Departure;Jessic Ngankam;23;Centre-Forward;Germany;;Hannover 96;Loan fee:ï¿½ï¿½ï;loan;250000.0;Loan fee:ï¿½ï¿½ï
+2024/25;Departure;Antonio Foti;20;Attacking Midfield;Cyprus;;B. Dortmund II;ýýý150k;transfer;150000.0;ýýý150k
+2024/25;Departure;Dario Gebuhr;21;Centre-Back;Germany;;Hansa Rostock;ýýý70k;transfer;70000.0;ýýý70k
+2024/25;Departure;Sidney Raebiger;19;Central Midfield;Germany;;E. Braunschweig;ýýý70k;transfer;70000.0;ýýý70k
+2024/25;Departure;Faride Alidou;23;Left Winger;Germany;;1.FC K'lautern;?;other;;?
+2024/25;Departure;Aurï¿½ï¿½ï¿½ï;27;Right-Back;Portugal;;Stade Reims;loan transfer;loan;;loan transfer
+2024/25;Departure;Paxten Aaronson;20;Attacking Midfield;United States;;FC Utrecht;loan transfer;loan;;loan transfer
+2024/25;Departure;Hrvoje Smolcic;23;Centre-Back;Croatia;;LASK;loan transfer;loan;;loan transfer
+2024/25;Departure;Faride Alidou;23;Left Winger;Germany;;Hellas Verona;loan transfer;loan;;loan transfer
+2024/25;Departure;Nacho Ferri;19;Centre-Forward;Spain;;KV Kortrijk;loan transfer;loan;;loan transfer
+2024/25;Departure;Elias Baum;18;Right-Back;Germany;;SV Elversberg;loan transfer;loan;;loan transfer
+2024/25;Departure;Simon Simoni;19;Goalkeeper;Albania;;FC Ingolstadt;loan transfer;loan;;loan transfer
+2024/25;Departure;Simon Simoni;20;Goalkeeper;Albania;;1.FC K'lautern;loan transfer;loan;;loan transfer
+2024/25;Departure;Sebastian Rode;33;Central Midfield;Germany;;;-;undisclosed;;-
+2024/25;Departure;Marcel Wenig;20;Central Midfield;Germany;;E. Frankfurt II;-;undisclosed;;-
+2024/25;Departure;Makoto Hasebe;40;Defensive Midfield;Japan;;;-;undisclosed;;-
+2024/25;Departure;Jï¿½ï¿½ï¿½ï¿½ï¿½ï¿;26;Centre-Back;Cameroon;;E. Frankfurt II;-;undisclosed;;-
+2024/25;Departure;Harpreet Ghotra;21;Central Midfield;Germany;;E. Frankfurt II;-;undisclosed;;-
+2024/25;Departure;Arthur Theate;24;Centre-Back;Belgium;;Stade Rennais;End of loan01.02.2025;loan_return;0.0;End of loan01.02.2025
+2024/25;Departure;Hugo Ekitikï¿;22;Centre-Forward;France;;Paris SG;End of loan30.06.2024;loan_return;0.0;End of loan30.06.2024
+2024/25;Departure;Robin Koch;27;Centre-Back;Germany;;Leeds;End of loan30.06.2024;loan_return;0.0;End of loan30.06.2024
+2024/25;Departure;Donny van de Beek;27;Central Midfield;Netherlands;;Man Utd;End of loan30.06.2024;loan_return;0.0;End of loan30.06.2024
+2024/25;Departure;Sasa Kalajdzic;26;Centre-Forward;Austria;;Wolves;End of loan30.06.2024;loan_return;0.0;End of loan30.06.2024
+2025/26;Arrival;Jonathan Burkardt;24;Centre-Forward;Germany;1.FSV Mainz 05;;ýýý21.00m;transfer;21000000.0;ýýý21.00m
+2025/26;Arrival;Ritsu Doan;27;Right Winger;Japan;SC Freiburg;;ýýý21.00m;transfer;21000000.0;ýýý21.00m
+2025/26;Arrival;Rasmus Kristensen;27;Right-Back;Denmark;Leeds;;ýýý6.00m;transfer;6000000.0;ýýý6.00m
+2025/26;Arrival;Love Arrhov;17;Attacking Midfield;Sweden;Brommapojkarna;;ýýý4.60m;transfer;4600000.0;ýýý4.60m
+2025/26;Arrival;Noah Fenyï¿;19;Defensive Midfield;Hungary;E. Frankfurt II;;-;undisclosed;;-
+2025/26;Arrival;Paxten Aaronson;21;Attacking Midfield;United States;FC Utrecht;;End of loan30.06.2025;loan_return;0.0;End of loan30.06.2025
+2025/26;Arrival;Elias Baum;19;Right-Back;Germany;SV Elversberg;;End of loan30.06.2025;loan_return;0.0;End of loan30.06.2025
+2025/26;Arrival;Aurï¿½ï¿½ï¿½ï;28;Right-Back;Portugal;Stade Reims;;End of loan30.06.2025;loan_return;0.0;End of loan30.06.2025
+2025/26;Arrival;Nacho Ferri;20;Centre-Forward;Spain;KV Kortrijk;;End of loan30.06.2025;loan_return;0.0;End of loan30.06.2025
+2025/26;Arrival;Hrvoje Smolcic;24;Centre-Back;Croatia;LASK;;End of loan30.06.2025;loan_return;0.0;End of loan30.06.2025
+2025/26;Arrival;Jessic Ngankam;24;Centre-Forward;Germany;Hannover 96;;End of loan30.06.2025;loan_return;0.0;End of loan30.06.2025
+2025/26;Departure;Hugo Ekitikï¿;23;Centre-Forward;France;;Liverpool;ýýý90.00m;transfer;90000000.0;ýýý90.00m
+2025/26;Departure;Tuta;26;Centre-Back;Brazil;;Al-Duhail SC;ýýý15.00m;transfer;15000000.0;ýýý15.00m
+2025/26;Departure;Igor Matanovic;22;Centre-Forward;Croatia;;SC Freiburg;ýýý6.70m;transfer;6700000.0;ýýý6.70m
+2025/26;Departure;Nacho Ferri;20;Centre-Forward;Spain;;KVC Westerlo;ýýý2.00m;transfer;2000000.0;ýýý2.00m
+2025/26;Departure;Krisztiï¿½ï¿½ï¿½ï¿;20;Attacking Midfield;Hungary;;Ferencvï¿½ï¿;loan transfer;loan;;loan transfer
+2025/26;Departure;Rasmus Kristensen;27;Right-Back;Denmark;;Leeds;End of loan30.06.2025;loan_return;0.0;End of loan30.06.2025
+2026/27;Arrival;Krisztiï¿½ï¿½ï¿½ï¿;21;Attacking Midfield;Hungary;Ferencvï¿½ï¿;;End of loan30.06.2026;loan_return;0.0;End of loan30.06.2026
+2026/27;Arrival;Simon Simoni;21;Goalkeeper;Albania;1.FC K'lautern;;End of loan30.06.2026;loan_return;0.0;End of loan30.06.2026
